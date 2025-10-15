@@ -1,5 +1,7 @@
 SELECT  [BusinessEntityID]
       ,[NationalIDNumber]
+SELECT  [BusinessEntityID]
+      ,[NationalIDNumber]
       ,[LoginID]
       ,[OrganizationNode]
       ,[OrganizationLevel]
